@@ -1,0 +1,11 @@
+# SVM Model
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC.fit
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+https://www.sciencedirect.com/topics/engineering/confusion-matrix#:~:text=A%20confusion%20matrix%20represents%20the,by%20model%20as%20other%20class.
+https://www.kaggle.com/code/bansodesandeep/sentiment-analysis-support-vector-machine/notebook
+
+# Count Vectorizer
+https://www.geeksforgeeks.org/using-countvectorizer-to-extracting-features-from-text/#
+
+# Statistics
+https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
