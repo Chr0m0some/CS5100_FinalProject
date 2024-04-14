@@ -9,3 +9,6 @@ https://www.geeksforgeeks.org/using-countvectorizer-to-extracting-features-from-
 
 # Statistics
 https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
+
+# SVM Explanation
+https://web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf
